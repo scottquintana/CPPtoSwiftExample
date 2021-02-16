@@ -2,4 +2,4 @@
 
 ## C++ 🌉  Objective-C 🌉  SwiftUI
 
-A simple HelloWorld using a C++ library.
+A simple HelloWorld using a C++ and ObjC bridges.
